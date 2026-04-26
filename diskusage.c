@@ -3,6 +3,7 @@
 #include <ftw.h>
 #define _XOPEN_SOURCE 500
 
+
 typedef struct{
     const char* path;
     size_t size;
